@@ -1,18 +1,7 @@
-public class HelloWorld {
-
-    /**
-     * Main method that runs when the program is started.
-     * @param args command-line arguments
-     */
-    public static void main (String[] args) {
-        /*
-        This is how you can print to STDOUT
-         */
-        System.out.println("Hello World"); // don't forget the semi-colon
-
-        /*
-        System.out.println("I was also going to say...");
-        System.out.println("but I changed my mind");
-        */
-    }
+public class HellowWorld{
+	
+	public static void main(String[] a){
+		
+		System.our.println("-----------***** This is Branch commited class********-----------");
+	}
 }
